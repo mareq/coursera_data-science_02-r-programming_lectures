@@ -1,0 +1,3 @@
+structure(list(Foo = c(42L, 23L, 32L), Bar = c("qux", "corge", 
+"grault"), Baz = c("64", "54", "thug")), .Names = c("Foo", "Bar", 
+"Baz"), class = "data.frame", row.names = c(NA, -3L))

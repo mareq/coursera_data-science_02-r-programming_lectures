@@ -1,2 +1,6 @@
-# coursera_data-science_02-r-programming_lectures
-Lecture notes for Coursera R Programming class.
+Coursera Data Science specialization by Johns Hopkins University
+Course 2
+R Programming
+5th Jan 2015
+
+
